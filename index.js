@@ -73,5 +73,5 @@ server.use(/^(?!\/auth).*$/,  (req, res, next) => {
 server.use(router)
 
 server.listen(3000, () => {
-  console.log('Run Ecobrisa API Json Server')
+  console.log('Run API Json Server')
 })
