@@ -1,0 +1,416 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Crosoften Tecnologia",
+      "document_type": "cnpj",
+      "document_number": "23888009000182",
+      "corporate_name": "Crosoften Tecnologia LTDA",
+      "fantasy_name": "Crosoften",
+      "state_registration": 13233231,
+      "activity": "Empreiteira Digital",
+      "address": {
+        "zipcode": "77249230",
+        "state": "MG",
+        "city": "Uberlândia",
+        "street": "Rua São Judas Tadeu",
+        "number": "360",
+        "neighborhood": "Carajás"
+      },
+      "contact": "Crosoften",
+      "email": "contato@crosoften.com.br",
+      "telephone": "33434243434",
+      "cell_phone": "77973233241"
+    },
+    {
+      "id": 2,
+      "name": "Crosoften 2",
+      "document_type": "cnpj",
+      "document_number": "23888009000182",
+      "corporate_name": "Crosoften Tecnologia LTDA",
+      "fantasy_name": "Crosoften",
+      "state_registration": 13233231,
+      "activity": "Empreiteira Digital",
+      "address": {
+        "zipcode": "77249230",
+        "state": "MG",
+        "city": "Uberlândia",
+        "street": "Rua São Judas Tadeu",
+        "number": "360",
+        "neighborhood": "Carajás"
+      },
+      "contact": "Crosoften",
+      "email": "contato@crosoften.com.br",
+      "telephone": "33434243434",
+      "cell_phone": "77973233241"
+    },
+    {
+      "id": 3,
+      "name": "Crosoften 3",
+      "document_type": "cnpj",
+      "document_number": "23888009000182",
+      "corporate_name": "Crosoften Tecnologia LTDA",
+      "fantasy_name": "Crosoften",
+      "state_registration": 13233231,
+      "activity": "Empreiteira Digital",
+      "address": {
+        "zipcode": "77249230",
+        "state": "MG",
+        "city": "Uberlândia",
+        "street": "Rua São Judas Tadeu",
+        "number": "360",
+        "neighborhood": "Carajás"
+      },
+      "contact": "Crosoften",
+      "email": "contato@crosoften.com.br",
+      "telephone": "33434243434",
+      "cell_phone": "77973233241"
+    },
+    {
+      "id": 4,
+      "name": "Crosoften 4",
+      "document_type": "cnpj",
+      "document_number": "23888009000182",
+      "corporate_name": "Crosoften Tecnologia LTDA",
+      "fantasy_name": "Crosoften",
+      "state_registration": 13233231,
+      "activity": "Empreiteira Digital",
+      "address": {
+        "zipcode": "77249230",
+        "state": "MG",
+        "city": "Uberlândia",
+        "street": "Rua São Judas Tadeu",
+        "number": "360",
+        "neighborhood": "Carajás"
+      },
+      "contact": "Crosoften",
+      "email": "contato@crosoften.com.br",
+      "telephone": "33434243434",
+      "cell_phone": "77973233241"
+    }
+  ],
+  "photos": [
+    {
+      "client_id": 1,
+      "album": [
+        {
+          "id": 1,
+          "link": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 2,
+          "link": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 3,
+          "link": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 4,
+          "link": "https://picsum.photos/200/300"
+        }
+      ]
+    },
+    {
+      "client_id": 2,
+      "album": [
+        {
+          "id": 5,
+          "link": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+          "id": 6,
+          "link": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+          "id": 7,
+          "link": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+          "id": 8,
+          "link": "https://picsum.photos/200/300?grayscale"
+        }
+      ]
+    },
+    {
+      "client_id": 3,
+      "album": [
+        {
+          "id": 9,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 10,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 11,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 12,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        }
+      ]
+    },
+    {
+      "client_id": 4,
+      "album": [
+        {
+          "id": 13,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 14,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 15,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        },
+        {
+          "id": 16,
+          "link": "https://picsum.photos/seed/picsum/200/300"
+        }
+      ]
+    }
+  ],
+  "historic": [
+    {
+      "client_id": 1,
+      "historic": [
+        {
+          "cod": 32414,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 3223
+        },
+        {
+          "cod": 948,
+          "date_initial": "2019/15/11",
+          "status": "recusado pelo cliente",
+          "type": "orçamento",
+          "value_total": 1500
+        },
+        {
+          "cod": 3458,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1502
+        }
+      ]
+    },
+    {
+      "client_id": 2,
+      "historic": [
+        {
+          "cod": 324,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1513
+        },
+        {
+          "cod": 9484,
+          "date_initial": "2019/15/11",
+          "status": "recusado pelo cliente",
+          "type": "orçamento",
+          "value_total": 1503
+        },
+        {
+          "cod": 340,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1502
+        }
+      ]
+    },
+    {
+      "client_id": 3,
+      "historic": [
+        {
+          "cod": 34,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1513
+        },
+        {
+          "cod": 98,
+          "date_initial": "2019/15/11",
+          "status": "recusado pelo cliente",
+          "type": "orçamento",
+          "value_total": 1503
+        },
+        {
+          "cod": 58,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1232
+        }
+      ]
+    },
+    {
+      "client_id": 4,
+      "historic": [
+        {
+          "cod": 3,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 1533
+        },
+        {
+          "cod": 9,
+          "date_initial": "2019/15/11",
+          "status": "recusado pelo cliente",
+          "type": "orçamento",
+          "value_total": 1042
+        },
+        {
+          "cod": 10043,
+          "date_initial": "2019/15/11",
+          "status": "aberto",
+          "type": "orçamento",
+          "value_total": 232
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "user_id": 1,
+      "notifications": [
+        {
+          "id": 34,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3775,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3687,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 34008,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 352414,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3601,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3554,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 350941,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3614,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3424,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3825,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3698,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "notifications": [
+        {
+          "id": 38,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 39,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 450,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3534,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 315,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 3634,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 340,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 359,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 361,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        },
+        {
+          "id": 344,
+          "title": "Ligar para cliente <b>Mondial</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 354,
+          "title": "Fazer companhamento em <b>CroSoften</b> sobre o orçamento <b>48422</b>",
+          "is_selected": false
+        },
+        {
+          "id": 422,
+          "title": "Cliente <b>CroSoften</b> foi aprovado! Você já pode iniciar <b>novo orçamento</b>",
+          "is_selected": false
+        }
+      ]
+    }
+  ]
+}

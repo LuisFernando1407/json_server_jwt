@@ -1,0 +1,22 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Luís Fernando",
+        "email": "luis@email.com",
+        "password": "123321a"
+      },
+      {
+        "id": 2,
+        "name": "Marlon Paupitz",
+        "email": "marlon@email.com",
+        "password": "123456"
+      },
+      {
+        "id": 3,
+        "name": "Matheus Vianna",
+        "email": "matheus@email.com",
+        "password": "123456"
+      }
+    ]
+}
